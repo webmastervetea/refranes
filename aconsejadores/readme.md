@@ -2,16 +2,7 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Aconsejadores: Brindan una recomendación directa sobre cómo actuar.
-
-
-¡Excelente elección! Los refranes aconsejadores son la esencia de la sabiduría popular, ya que tienen la función directa de guiar la conducta.
-
-Aquí tienes un listado de refranes clasificados como **Aconsejadores** (Clasificación E), organizados por el tipo de consejo que ofrecen:
-
----
-
-## 📜 Refranes Aconsejadores
+## 📜 Aconsejadores: Brindan una recomendación directa sobre cómo actuar.
 
 ### 1. Consejos sobre Prudencia y Cautela
 
