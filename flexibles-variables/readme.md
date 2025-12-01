@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Flexibles variables: Mantienen la idea central, pero permiten la sustitución de algunos sustantivos, verbos o adjetivos según el contexto regional o social.
