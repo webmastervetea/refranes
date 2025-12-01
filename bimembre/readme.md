@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Bimembre: Consta de dos partes claramente definidas (tesis y antítesis o causa y consecuencia), a menudo con rima. Es la forma más común.
