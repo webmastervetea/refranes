@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Regionales: Específicos de una región, con mención de lugares, productos o costumbres locales.
