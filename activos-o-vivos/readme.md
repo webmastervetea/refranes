@@ -45,6 +45,3 @@
 
 ---
 
-Estos refranes son parte del ADN del español y se usan frecuentemente para resumir una situación o dar un consejo rápido.
-
-¿Te gustaría que te preparara un listado con refranes que están **en desuso** (pasivos), para ver la diferencia?
