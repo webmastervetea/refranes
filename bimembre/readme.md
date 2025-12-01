@@ -27,4 +27,3 @@
 
 
 
-¿Te gustaría un listado de refranes con la estructura opuesta, los **Monovariables**, que son frases únicas y concisas?
