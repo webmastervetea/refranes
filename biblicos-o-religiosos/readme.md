@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Biblicos o religiosos: Proverbios que tienen su origen directo o indirecto en textos religiosos (como la Biblia o la Patrística) y que han pasado al uso cotidiano.
