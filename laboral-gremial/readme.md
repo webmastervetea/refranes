@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Laboral-Gremial: Relacionados con un oficio, el trabajo en sí o la pereza.
