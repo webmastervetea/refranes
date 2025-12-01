@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Dialogado: Contiene una pregunta y una respuesta implícita o explícita, o la mención de un diálogo.
