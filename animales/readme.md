@@ -43,4 +43,3 @@
 
 ---
 
-¿Te gustaría que te diera ejemplos de refranes clasificados como **cosmogónicos** (sobre el sol, la luna, el viento) para ver el contraste con los animales?
