@@ -1,6 +1,6 @@
 # Refranes clasificados por categorias [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 
-* [[Aconsejadores](https://github.com/webmastervetea/refranes/tree/main/aconsejadores)]
+|* [[Aconsejadores](https://github.com/webmastervetea/refranes/tree/main/aconsejadores)]|
 * [[Activos o vivos](https://github.com/webmastervetea/refranes/tree/main/activos-o-vivos)]
 * [[Alegóricos (Simbólicos)](https://github.com/webmastervetea/refranes/tree/main/alegoricos)]
 * [[Amistad](https://github.com/webmastervetea/refranes/tree/main/amistad)]
