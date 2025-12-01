@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Tiempo: Fomenta la diligencia y la inmediatez en las tareas.
+## Basados en la Analogia: Comparan dos situaciones o elementos que parecen distintos para extraer una conclusión común.
