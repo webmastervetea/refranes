@@ -5,7 +5,8 @@
 ## 📜 Aconsejadores: Brindan una recomendación directa sobre cómo actuar.
 
 ### 1. Consejos sobre Prudencia y Cautela
-
+| Refrán | Consejo que Transmite |
+| :--- | :--- |
 | **"Más vale prevenir que lamentar."** | Aconseja tomar precauciones para evitar problemas futuros. |
 | **"Cuando las barbas de tu vecino veas pelar, pon las tuyas a remojar."** | Aconseja aprender de las desgracias ajenas para evitar que te suceda lo mismo. |
 | **"En boca cerrada no entran moscas."** | Aconseja ser discreto y callar para evitar meterse en problemas. |
