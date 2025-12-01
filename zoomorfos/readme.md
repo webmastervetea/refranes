@@ -2,4 +2,4 @@
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 [[Otras categorias](https://github.com/webmastervetea/refranes/tree/main)]
 
-## Zoomorfos: Fomenta la diligencia y la inmediatez en las tareas.
+## Zoomorfos: Utilizan animales (reales o imaginarios) para representar vicios o virtudes humanas.
