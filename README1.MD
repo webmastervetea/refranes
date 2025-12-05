@@ -5,7 +5,7 @@
 | Categoría Temática o Estructural | Categoría Temática o Estructural | Categoría Temática o Estructural |
 | :--- | :--- | :--- |
 [[de frutas]](https://github.com/webmastervetea/refranes/tree/main/de-frutas) | [[de verduras]](https://github.com/webmastervetea/refranes/tree/main/de-verduras) | [[para niños pequeños]](https://github.com/webmastervetea/refranes/tree/main/para-menores) |
-[[]]() | [[]]() | [[]]() |
+[[de colores]](https://github.com/webmastervetea/refranes/blob/main/de-colores/README.MD) | [[]]() | [[]]() |
 [[]]() | [[]]() | [[]]() |
 [[]]() | [[]]() | [[]]() |
 [[]]() | [[]]() | [[]]() |
