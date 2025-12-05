@@ -4,7 +4,7 @@
 ### [[0 Mas categorias de refranes]](https://github.com/webmastervetea/refranes/blob/main/README.md)
 |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
-[[de frutas]](https://github.com/webmastervetea/refranes/tree/main/de-frutas) | [[de verduras]](https://github.com/webmastervetea/refranes/tree/main/de-verduras) | [[para niños pequeños]](https://github.com/webmastervetea/refranes/tree/main/para-menores) | [[de colores]](https://github.com/webmastervetea/refranes/blob/main/de-colores/README.MD) | [[]]() | [[]]() | [[]]() | [[]]() | [[]]() |
+[[de frutas]](https://github.com/webmastervetea/refranes/tree/main/de-frutas) | [[de verduras]](https://github.com/webmastervetea/refranes/tree/main/de-verduras) | [[para niños pequeños]](https://github.com/webmastervetea/refranes/tree/main/para-menores) | [[de colores]](https://github.com/webmastervetea/refranes/blob/main/de-colores/README.MD) | [[de Valores y Hábitos para Niños]](https://github.com/webmastervetea/refranes/tree/main/sencillos-de-valores-y-habitos-para-menores) | [[]]() | [[]]() | [[]]() | [[]]() |
 [[]]() | [[]]() | [[]]() |
 [[]]() | [[]]() | [[]]() |
 [[]]() | [[]]() | [[]]() |
