@@ -4,5 +4,5 @@ Organización de los refranes por categorías temáticas y estructurales para fa
 
 | Categoría Temática o Estructural | Categoría Temática o Estructural | Categoría Temática o Estructural |
 | :--- | :--- | :--- |
- [[Aconsejadores]](https://github.com/webmastervetea/refranes/tree/main/aconsejadores) 
+ [[]]() | [[]]() | [[]]() |
 
