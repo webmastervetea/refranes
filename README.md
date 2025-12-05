@@ -1,7 +1,7 @@
  # Refranes clasificados por categorías [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 
-Organización de los refranes por categorías temáticas y estructurales para facilitar su consulta:
-[[Mas categorias de refranes ]]([https://github.com/webmastervetea/refranes/tree/main/aconsejadores](https://github.com/webmastervetea/refranes/blob/main/README.md))
+## Organización de los refranes por categorías temáticas y estructurales para facilitar su consulta:
+### [[Mas categorias de refranes ]](https://github.com/webmastervetea/refranes/blob/main/README.md)
 | Categoría Temática o Estructural | Categoría Temática o Estructural | Categoría Temática o Estructural |
 | :--- | :--- | :--- |
 | [[Aconsejadores]](https://github.com/webmastervetea/refranes/tree/main/aconsejadores) | [[Activos o vivos]](https://github.com/webmastervetea/refranes/tree/main/activos-o-vivos) | [[Alegóricos (Simbólicos)]](https://github.com/webmastervetea/refranes/tree/main/alegoricos) |
