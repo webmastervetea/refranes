@@ -118,6 +118,4 @@
 99. **"Con paciencia y saliva, el elefante se comió la hormiga; y la fruta, con medida."** (Perseverancia y moderación).
 100. **"Si quieres ver la fruta crecer, tienes que sembrar y luego creer."** (Fe y acción).
 
----
 
-¿Te gustaría que te buscara el significado de alguno de estos refranes o que te creara más refranes sobre un tipo de fruta en específico, como las uvas o los cítricos?
